@@ -8,3 +8,5 @@ Full Stack Developer with a strong foundation in both front-end and back-end tec
 # 🖥️ Activities:
 [![Ojash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ojash-Adhikari&theme=high-contrast)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
+# 📝 Languages:
+[![Alt Text](https://ojash-adhikari.github.ioojash-graph.svg)](https://ojash-adhikari.github.io)
